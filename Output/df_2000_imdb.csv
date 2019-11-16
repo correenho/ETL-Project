@@ -1,0 +1,790 @@
+,imdb_id,imdb_metascore,title
+2654,tt0138946,58.0,The Yards
+3060,tt0195945,41.0,Next Friday
+3071,tt0208261,75.0,The Life and Times of Hank Greenberg
+3072,tt0156812,61.0,My Dog Skip
+3073,tt0134983,19.0,Supernova
+3107,tt0186975,13.0,Down to You
+3108,tt0197544,n/a,Hellhounds on My Trail: The Afterlife of Robert Johnson
+3110,tt0153866,15.0,Wirey Spindell
+3121,tt0141399,34.0,Isn't She Great
+3155,tt0134084,56.0,Scream 3
+3158,tt0171356,42.0,Gun Shy
+3161,tt0143344,25.0,Knockout
+3167,tt0163978,43.0,The Beach
+3168,tt0184907,34.0,Snow Day
+3169,tt0220099,53.0,The Tigger Movie
+3173,tt0217107,n/a,Trois
+3180,tt0181984,63.0,Boiler Room
+3181,tt0162983,33.0,Hanging Up
+3182,tt0134847,49.0,Pitch Black
+3183,tt0190138,47.0,The Whole Nine Yards
+3185,tt0221023,n/a,Black Tar Heroin: The Dark End of the Street
+3198,tt0184858,37.0,Reindeer Games
+3199,tt0185014,73.0,Wonder Boys
+3200,tt0158583,50.0,Deterrence
+3204,tt0199290,11.0,3 Strikes
+3205,tt0194368,n/a,Chain of Fools
+3206,tt0186045,25.0,Drowning Mona
+3207,tt0156841,25.0,The Next Best Thing
+3208,tt0181151,41.0,What Planet Are You From?
+3235,tt0218112,44.0,The Closer You Get
+3236,tt0183523,34.0,Mission to Mars
+3238,tt0154352,48.0,Condo Painting
+3289,tt0195685,73.0,Erin Brockovich
+3290,tt0195714,36.0,Final Destination
+3332,tt0165929,52.0,Romeo Must Die
+3333,tt0195778,25.0,Here On Earth
+3334,tt0202402,20.0,Whatever It Takes
+3337,tt0127349,59.0,Waking the Dead
+3361,tt0146882,79.0,High Fidelity
+3362,tt0138749,51.0,The Road to El Dorado
+3363,tt0192614,24.0,The Skulls
+3389,tt0186151,67.0,Frequency
+3390,tt0217756,23.0,Ready to Rumble
+3391,tt0122459,54.0,Return to Me
+3392,tt0160797,45.0,Rules of Engagement
+3393,tt0172632,74.0,Joe Gould's Secret
+3394,tt0183503,46.0,Me Myself I
+3412,tt0191754,46.0,28 Days
+3413,tt0144084,64.0,American Psycho
+3414,tt0171433,60.0,Keeping the Faith
+3415,tt0149367,49.0,Where the Money is
+3417,tt0236216,82.0,The Filth and the Fury
+3418,tt0160644,28.0,Passion of Mind
+3431,tt0176783,31.0,Gossip
+3432,tt0199725,70.0,Love & Basketball
+3433,tt0141926,62.0,U-571
+3440,tt0144142,44.0,Committed
+3441,tt0132910,n/a,The Crow: Salvation
+3442,tt0158622,27.0,The Flintstones in Viva Rock Vegas
+3443,tt0198021,30.0,Where the Heart Is
+3444,tt0189584,56.0,The Big Kahuna
+3445,tt0180837,57.0,Bossa Nova
+3448,tt0180793,69.0,The Last September
+3449,tt0220100,65.0,Timecode
+3456,tt0172495,67.0,Gladiator
+3457,tt0167203,33.0,I Dreamed of Africa
+3458,tt0153464,57.0,Up at the Villa
+3471,tt0185183,9.0,Battlefield Earth
+3472,tt0210616,52.0,Center Stage
+3474,tt0156323,7.0,Screwed
+3475,tt0174336,10.0,Whipped
+3476,tt0171359,70.0,Hamlet
+3493,tt0130623,56.0,Dinosaur
+3494,tt0217630,35.0,Loser
+3495,tt0215129,55.0,Road Trip
+3496,tt0196216,69.0,Small Time Crooks
+3501,tt0120755,59.0,Mission: Impossible II
+3502,tt0184894,77.0,Shanghai Noon
+3524,tt0208003,33.0,Big Momma's House
+3595,tt0187078,35.0,Gone in Sixty Seconds
+3597,tt0182295,35.0,Love's Labour's Lost
+3599,tt0162711,26.0,Trixie
+3600,tt0143422,30.0,American Virgin
+3621,tt0204175,29.0,Boys and Girls
+3622,tt0162650,50.0,Shaft
+3623,tt0120913,48.0,Titan A.E.
+3629,tt0120630,88.0,Chicken Run
+3630,tt0183505,49.0,"Me, Myself & Irene"
+3631,tt0187393,63.0,The Patriot
+3632,tt0131704,36.0,The Adventures of Rocky & Bullwinkle
+3633,tt0177971,59.0,The Perfect Storm
+3634,tt0200669,62.0,The Golden Bowl
+3662,tt0219854,45.0,The Kid
+3663,tt0175142,48.0,Scary Movie
+3668,tt0212974,54.0,Groove
+3671,tt0120903,64.0,X-Men
+3672,tt0200530,76.0,Chuck & Buck
+3675,tt0163676,14.0,The In Crowd
+3676,tt0161081,51.0,What Lies Beneath
+3697,tt0205461,19.0,Thomas and the Magic Railroad
+3698,tt0144528,38.0,Nutty Professor II: The Klumps
+3701,tt0174480,24.0,Autumn in New York
+3702,tt0200550,27.0,Coyote Ugly
+3703,tt0164052,24.0,Hollow Man
+3704,tt0186566,73.0,Space Cowboys
+3706,tt0156757,41.0,Mad About Mambo
+3707,tt0206226,42.0,Psycho Beach Party
+3708,tt0195234,62.0,Saving Grace
+3727,tt0251739,81.0,Margaret Cho: I'm the One That I Want
+3728,tt0234853,70.0,The Tao of Steve
+3729,tt0165986,64.0,The Tic Code
+3733,tt0163983,17.0,Bless the Child
+3734,tt0173716,57.0,Cecil B. Demented
+3735,tt0233687,69.0,The Eyes of Tammy Faye
+3736,tt0138681,71.0,The Opportunists
+3737,tt0191397,30.0,The Replacements
+3738,tt0199314,64.0,About Adam
+3739,tt0209958,40.0,The Cell
+3741,tt0236388,76.0,The Original Kings of Comedy
+3742,tt0178050,33.0,Sunset Strip
+3755,tt0160009,30.0,The Art of War
+3756,tt0236008,72.0,The Ballad of Ramblin' Jack
+3757,tt0168515,47.0,Phish: Bittersweet Motel
+3758,tt0204946,52.0,Bring It On
+3759,tt0162903,46.0,Catfish in Black Bean Sauce
+3760,tt0198386,37.0,The Crew
+3761,tt0234137,44.0,Love & Sex
+3762,tt0161216,36.0,Steal This Movie
+3764,tt0209322,n/a,Skipped Parts
+3765,tt0144964,21.0,Highlander: Endgame
+3766,tt0259207,29.0,Backstage
+3767,tt0216772,18.0,Turn It Up
+3768,tt0187696,33.0,Anatomy
+3769,tt0171580,69.0,Nurse Betty
+3771,tt0204626,22.0,The Watcher
+3772,tt0202677,49.0,The Way of the Gun
+3773,tt0181875,90.0,Almost Famous
+3774,tt0211938,39.0,Bait
+3775,tt0191037,n/a,Circus
+3776,tt0197384,32.0,Crime + Punishment in Suburbia
+3777,tt0134630,40.0,Duets
+3779,tt0182508,73.0,Urbania
+3781,tt0181836,38.0,The Specials
+3782,tt0164212,43.0,Under Suspicion
+3783,tt0170452,22.0,Prince of Central Park
+3784,tt0192731,16.0,Urban Legends: Final Cut
+3785,tt0206420,41.0,Woman on Top
+3786,tt0168629,61.0,Dancer in the Dark
+3787,tt0218839,78.0,Best in Show
+3788,tt0210567,23.0,Beautiful
+3790,tt0222850,51.0,The Broken Hearts Club: A Romantic Comedy
+3791,tt0210075,70.0,Girlfight
+3792,tt0210945,48.0,Remember the Titans
+3818,tt0215545,50.0,Bamboozled
+3819,tt0210584,45.0,Bootmen
+3820,tt0259974,20.0,Digimon: The Movie
+3821,tt0208988,24.0,Get Carter
+3823,tt0212338,73.0,Meet the Parents
+3824,tt0180093,68.0,Requiem for a Dream
+3825,tt0170691,55.0,Tigerland
+3826,tt0202641,79.0,Two Family House
+3827,tt0208874,59.0,The Contender
+3828,tt0205271,64.0,Dr. T and the Women
+3830,tt0213790,22.0,The Ladies Man
+3831,tt0160484,16.0,Lost Souls
+3842,tt0249462,74.0,Billy Elliot
+3843,tt0230030,49.0,Bedazzled
+3844,tt0223897,40.0,Pay It Forward
+3848,tt0229260,15.0,Book of Shadows: Blair Witch 2
+3849,tt0192255,45.0,The Little Vampire
+3850,tt0219952,31.0,Lucky Numbers
+3851,tt0192949,36.0,Stardom
+3852,tt0160127,52.0,Charlie's Angels
+3853,tt0146984,47.0,The Legend of Bagger Vance
+3854,tt0185431,38.0,Little Nicky
+3855,tt0203019,56.0,Men of Honor
+3856,tt0199753,34.0,Red Planet
+3857,tt0197096,57.0,What's Cooking?
+3858,tt0203230,85.0,You Can Count on Me
+3861,tt0216216,49.0,The 6th Day
+3862,tt0186894,52.0,Bounce
+3863,tt0170016,46.0,How the Grinch Stole Christmas
+3865,tt0213203,62.0,Rugrats in Paris: The Movie
+3866,tt0211181,35.0,102 Dalmatians
+3867,tt0213847,54.0,Malena
+3868,tt0180073,70.0,Quills
+3869,tt0217869,62.0,Unbreakable
+3870,tt0265101,44.0,Boys Life 3
+3871,tt0190332,93.0,"Crouching Tiger, Hidden Dragon"
+3872,tt0190374,14.0,Dungeons & Dragons
+3873,tt0228750,45.0,Proof of Life
+3874,tt0190865,48.0,Vertical Limit
+3886,tt0208092,55.0,Snatch
+3888,tt0156807,n/a,Mr Accident
+3889,tt0241303,64.0,Chocolat
+3890,tt0242423,30.0,"Dude, Where’s My Car?"
+3891,tt0120917,70.0,The Emperor's New Groove
+3892,tt0183659,77.0,Pollock
+3893,tt0207201,47.0,What Women Want
+3894,tt0181536,62.0,Finding Forrester
+3895,tt0219699,62.0,The Gift
+3896,tt0247196,85.0,Before Night Falls
+3897,tt0162222,73.0,Cast Away
+3898,tt0218967,42.0,The Family Man
+3899,tt0200720,78.0,The House of Mirth
+3900,tt0212346,43.0,Miss Congeniality
+3902,tt0190590,69.0,"O Brother, Where Art Thou?"
+3904,tt0120202,75.0,State and Main
+3905,tt0219653,26.0,Dracula 2000
+3906,tt0149624,55.0,All the Pretty Horses
+3907,tt0218182,56.0,An Everlasting Piece
+3908,tt0146309,67.0,Thirteen Days
+3909,tt0181865,86.0,Traffic
+3910,tt0218378,62.0,The Claim
+3911,tt0189998,71.0,Shadow of the Vampire
+3925,tt0218625,n/a,The St  Francisville Experiment
+3929,tt0194218,77.0,Panic
+3946,tt0157122,79.0,Faithless
+3948,tt0234805,n/a,The Legend of Rita
+3950,tt0162024,41.0,Two Ninas
+3951,tt0216800,75.0,"Harry, He's Here To Help"
+4016,tt0190524,22.0,Left Behind
+4018,tt0118694,85.0,In the Mood for Love
+4020,tt0120753,25.0,The Million Dollar Hotel
+4021,tt0250478,59.0,Nico and Dani
+4025,tt0216787,78.0,The Taste of Others
+4026,tt0190861,44.0,Vatel
+4030,tt0177650,18.0,Company Man
+4031,tt0249893,49.0,The Price of Milk
+4034,tt0191636,73.0,The Widow of Saint-Pierre
+4039,tt0244504,66.0,"Me, You, Them"
+4045,tt0236447,85.0,Long Night's Journey Into Day
+4047,tt0220157,53.0,When Brendan Met Trudy
+4082,tt0201776,n/a,Rated X
+4098,tt0205873,74.0,The Dish
+4099,tt0209144,80.0,Memento
+4108,tt0245712,83.0,Amores perros
+4109,tt0206187,63.0,Keep the River on Your Right: A Modern Cannibal Tale
+4110,tt0247380,83.0,The Gleaners & I
+4114,tt0235679,n/a,Pokémon: Spell of the Unknown
+4115,tt0221889,40.0,Beautiful Creatures
+4117,tt0260332,84.0,The Day I Became a Woman
+4118,tt0238588,66.0,Shadow Magic
+4124,tt0221073,65.0,Chopper
+4125,tt0255094,85.0,The Circle
+4126,tt0210149,59.0,Lakeboat
+4132,tt0211492,64.0,The Luzhin Defence
+4133,tt0199129,60.0,The Visit
+4143,tt0243889,78.0,Eureka
+4145,tt0240913,86.0,Under the Sand
+4172,tt0212826,57.0,Bread and Roses
+4173,tt0260775,84.0,Calle 54
+4174,tt0208911,52.0,The King Is Alive
+4179,tt0206742,36.0,Fast Food Fast Women
+4185,tt0206917,40.0,The Man Who Cried
+4186,tt0234407,77.0,Our Song
+4206,tt0244316,93.0,Yi Yi
+4214,tt0212815,59.0,Big Eden
+4219,tt0234288,69.0,Divided We Fall
+4220,tt0194530,n/a,Whatever Happened to Harold Smith?
+4247,tt0228242,63.0,Funny Felix
+4250,tt0203119,79.0,Sexy Beast
+4251,tt0179473,22.0,"South of Heaven, West of Hell"
+4252,tt0203632,64.0,The Princess and the Warrior
+4255,tt0228786,49.0,The Crimson Rivers
+4256,tt0246765,78.0,Lumumba
+4262,tt0249380,35.0,Baise-moi
+4263,tt0224578,72.0,The Vertical Ray of the Sun
+4321,tt0262210,70.0,Adanggaman
+4325,tt0245280,57.0,Michael Jordan to the Max
+4511,tt0222851,47.0,Brother
+4515,tt0237539,68.0,Bread and Tulips
+4519,tt0259442,49.0,The Monkey's Mask
+4573,tt0262826,63.0,Thomas in Love
+4597,tt0262076,65.0,The Turandot Project
+4600,tt0168446,78.0,Aberdeen
+4601,tt0251141,73.0,Innocence
+4608,tt0208196,60.0,Happy Accidents
+4609,tt0233699,57.0,Lisa Picard Is Famous
+4610,tt0206926,46.0,Maybe Baby
+4611,tt0203166,84.0,Together
+4612,tt0160710,55.0,Punks
+4631,tt0200427,78.0,Diamond Men
+4632,tt0259981,76.0,Djomeh
+4633,tt0263957,50.0,The Iron Ladies
+4636,tt0250809,73.0,Our Lady of the Assassins
+4639,tt0248912,79.0,Into the Arms of Strangers: Stories of the Kindertransport
+4642,tt0229340,79.0,Dinner Rush
+4650,tt0255321,74.0,Liam
+4653,tt0264578,85.0,The Endurance: Shackleton's Legendary Antarctic Expedition
+4687,tt0236034,68.0,Born Romantic
+4694,tt0265212,64.0,Grateful Dawg
+4739,tt0227277,68.0,Burnt Money
+4740,tt0217355,41.0,Dancing at the Blue Iguana
+4747,tt0236019,47.0,Better Than Sex
+4752,tt0236000,38.0,Ouch
+4753,tt0234988,65.0,The Town Is Quiet
+4761,tt0177888,45.0,King of the Jungle
+4762,tt0246072,48.0,Maze
+4796,tt0209037,60.0,Everybody's Famous!
+4830,tt0160403,52.0,The Independent
+4867,tt0217331,n/a,The Convent
+4894,tt0242795,68.0,Come Undone
+4920,tt0206608,58.0,The Farewell
+4921,tt0243862,77.0,Italian for Beginners
+4922,tt0268696,53.0,Time of Favor
+4940,tt0220627,66.0,Maelström
+4944,tt0219405,63.0,Waydowntown
+4951,tt0201899,35.0,A Rumor of Angels
+5001,tt0231956,32.0,The Last Man
+5015,tt0216651,62.0,Vampire Hunter D: Bloodlust
+5087,tt0216799,49.0,Harrison's Flowers
+5124,tt0262432,82.0,George Washington
+5152,tt0216689,73.0,Les Destinées sentimentales
+5183,tt0239507,68.0,Girls Can't Swim
+5185,tt0247586,80.0,Nine Queens
+5197,tt0120467,5.0,Vulgar
+5274,tt0158033,70.0,Nora
+5289,tt0210065,60.0,Gangster No. 1
+5350,tt0303243,63.0,Happy Times
+5381,tt0120263,76.0,Songs from the Second Floor
+5383,tt0232083,82.0,Merci pour le Chocolat
+5386,tt0217119,74.0,A Matter of Taste
+5392,tt0255589,61.0,The Isle
+5402,tt0267563,n/a,Hybrid
+5539,tt0186719,43.0,The Young Unknowns
+5551,tt0212604,73.0,Tully
+5656,tt0209933,91.0,Beau Travail
+5668,tt0246266,64.0,Blackboards
+5670,tt0210382,45.0,The Weight of Water
+5733,tt0230252,53.0,Better Housekeeping
+5770,tt0218581,48.0,Scarlet Diva
+5808,tt0243794,70.0,El Bola
+5815,tt0245929,70.0,Devils on the Doorstep
+5844,tt0183056,46.0,Esther Kahn
+5849,tt0199727,23.0,"Love, Honour and Obey"
+5861,tt0119273,n/a,Heavy Metal 2000
+5871,tt0246498,47.0,The City of Lost Souls
+5929,tt0160611,n/a,Ordinary Decent Criminal
+6026,tt0196708,n/a,Lockdown
+6162,tt0236027,47.0,Flickering Lights
+6206,tt0237993,68.0,101 Reykjavik
+6397,tt0251777,51.0,Km. 0
+6492,tt0216625,74.0,Code Unknown
+6499,tt0245837,79.0,Chunhyang
+6512,tt0218433,71.0,Me & Isaac Newton
+6531,tt0264802,n/a,Live Nude Girls Unite!
+6568,tt0177749,68.0,Enlightenment Guaranteed
+6617,tt0204933,39.0,Camera Obscura
+6652,tt0255067,n/a,Common Wealth
+6657,tt0251433,60.0,Time and Tide
+6671,tt0210070,70.0,Ginger Snaps
+6684,tt0163745,60.0,The Debut
+6689,tt0177068,52.0,Once in the Life
+6706,tt0216578,78.0,Murderous Maids
+6870,tt0266308,81.0,Battle Royale
+6953,tt0193854,66.0,A Shot at Glory
+7129,tt0245943,n/a,Da Hip Hop Witch
+7265,tt0259182,n/a,The American Nightmare
+7316,tt0188055,n/a,Mercy
+7320,tt0214388,n/a,100 Girls
+7354,tt0211718,64.0,I Come
+7356,tt0180303,n/a,If You Only Knew
+7369,tt0144688,28.0,Wildflowers
+7372,tt0275773,n/a,Versus
+7422,tt0284880,59.0,Bang Rajan
+7428,tt0223384,n/a,The Thin Blue Lie
+7434,tt0259072,78.0,A Time for Drunken Horses
+7450,tt0226225,n/a,North Beach
+7473,tt0142032,n/a,Frank Herbert's Dune
+7523,tt0235327,75.0,Dark Days
+7677,tt0295362,63.0,Chaos
+7748,tt0146879,n/a,The Hi-Line
+7777,tt0139388,n/a,It Had to Be You
+7806,tt0204137,65.0,Animal Factory
+7849,tt0243135,59.0,Happenstance
+7894,tt0238321,67.0,ivans xtc.
+7905,tt0217788,47.0,Secret Society
+9125,tt0123003,n/a,Bruno
+9159,tt0159784,n/a,Takedown
+9176,tt0175526,n/a,Cherry Falls
+9180,tt0177858,71.0,In July
+9184,tt0183678,n/a,The Prophecy 3: The Ascent
+9185,tt0183869,n/a,Taxi 2
+9188,tt0189456,n/a,Cut
+9190,tt0191996,n/a,Essex Boys
+9191,tt0192455,n/a,Picking Up the Pieces
+9192,tt0193741,n/a,Badding
+9195,tt0196267,n/a,Cruel Intentions 2
+9198,tt0200472,n/a,Beautiful Joe
+9203,tt0202711,71.0,Swimming
+9204,tt0206036,n/a,If These Walls Could Talk 2
+9206,tt0207275,n/a,The 10th Kingdom
+9207,tt0208185,n/a,An Extremely Goofy Movie
+9209,tt0211387,73.0,Water Drops on Burning Rocks
+9212,tt0212830,n/a,Bruiser
+9217,tt0216417,n/a,The Wog Boy
+9219,tt0221069,n/a,Chasing Sleep
+9220,tt0221581,n/a,The Stepdaughter
+9221,tt0222293,n/a,Possible Worlds
+9228,tt0231971,n/a,Restless
+9229,tt0232632,n/a,Shiner
+9230,tt0233298,n/a,Batman Beyond: Return of the Joker
+9232,tt0234837,76.0,Suzhou River
+9235,tt0235618,n/a,The Nine Lives of Tomas Katz
+9236,tt0236285,n/a,For Love or Country: The Arturo Sandoval Story
+9237,tt0236576,85.0,Paragraph 175
+9240,tt0239655,n/a,Monday
+9241,tt0239894,n/a,Paradise Lost 2: Revelations
+9242,tt0240793,n/a,Dark Prince: The True Story of Dracula
+9243,tt0240912,85.0,Sound and Fury
+9250,tt0244092,n/a,Needing You...
+9252,tt0244870,62.0,Spiral
+9253,tt0246593,73.0,The Big Animal
+9255,tt0246875,n/a,Purely Belter
+9259,tt0249241,92.0,Werckmeister Harmonies
+9261,tt0250440,n/a,Is It Fall Yet?
+9269,tt0260054,n/a,Gojoe: Spirit War Chronicle
+9271,tt0260991,58.0,Joint Security Area
+9275,tt0266555,54.0,Freeze Me
+9276,tt0269389,n/a,The Best Man's Wedding
+9278,tt0271383,n/a,A Dog's Will
+9284,tt0275230,44.0,Blood: The Last Vampire
+9308,tt0285005,n/a,Dead or Alive 2: Birds
+9374,tt0330500,n/a,Ju-on: The Curse
+9375,tt0330501,n/a,Ju-on: The Curse 2
+9535,tt0229440,n/a,Hellraiser: Inferno
+9537,tt0219519,49.0,Auggie Rose
+9787,tt0225100,n/a,Asfalto
+9789,tt0120626,n/a,Captains of April
+9904,tt0261552,n/a,The Foul King
+9924,tt0235712,n/a,Ringu 0
+9931,tt0219288,33.0,Loners
+10081,tt0266408,n/a,China Strike Force
+10629,tt0269857,n/a,Real Fiction
+10656,tt0205177,n/a,Kevin & Perry Go Large
+10689,tt0238119,n/a,Boys Don't Cry
+10715,tt0259388,n/a,Séance
+10850,tt0209095,n/a,Leprechaun in the Hood
+10897,tt0225481,n/a,The Dead Hate the Living!
+10913,tt0244173,n/a,The King Is Dancing
+11046,tt0239496,n/a,Jack Frost 2: Revenge of the Mutant Killer Snowman
+11139,tt0269217,69.0,Tears of the Black Tiger
+11374,tt0258885,76.0,Platform
+11672,tt0218379,75.0,Kippur
+12067,tt0246405,n/a,27 Missing Kisses
+12420,tt0282599,n/a,Il Mare
+12436,tt0239441,n/a,Gran Paradiso
+12797,tt0245027,n/a,The Bench
+12833,tt0240684,n/a,The Little Mermaid II: Return to the Sea
+12962,tt0219224,n/a,On the Beach
+13127,tt0195001,n/a,Kanak Attack
+13305,tt0263366,n/a,De fûke
+13313,tt0243951,67.0,Hamlet
+13329,tt0118852,n/a,Chinese Coffee
+13366,tt0200299,n/a,Bad Luck Love
+13407,tt0275434,n/a,Jesus Christ Superstar
+13417,tt0173957,n/a,Kimberly
+13425,tt0208629,n/a,Nuremberg
+13558,tt0221455,n/a,One Kill
+13560,tt0200192,n/a,Cheeky
+13813,tt0233651,n/a,Angels of the Universe
+13867,tt0242572,n/a,Kandukondain Kandukondain
+13902,tt0195165,n/a,Possessed
+13983,tt0260193,n/a,La Moitié gauche du frigo
+13990,tt0235376,n/a,Fail Safe
+13994,tt0249248,n/a,Wings of Hope
+14008,tt0414243,n/a,Love Hina Christmas Special: Silent Eve
+14056,tt0228528,n/a,Little Richard
+14347,tt0260688,55.0,Ali Zaoua: Prince of the Streets
+14384,tt0196106,43.0,MVP: Most Valuable Primate
+14386,tt0188160,32.0,Price of Glory
+14538,tt0242285,n/a,The Art of Dying
+14593,tt0199650,n/a,Jill Rips
+14610,tt0218080,n/a,Agent Red
+14645,tt0258761,80.0,Last Resort
+14661,tt0250730,n/a,Shooting War
+14814,tt0213890,n/a,Love Stories
+14820,tt0264695,n/a,The Hound of the Baskervilles
+14887,tt0307057,n/a,Killer Bean 2: The Party
+15003,tt0271029,n/a,"Come, Sweet Death"
+15061,tt0236638,n/a,Deep in the Woods
+15219,tt0250264,n/a,Bonhoeffer: Agent of Grace
+15229,tt0239381,36.0,The Phantom
+15236,tt0269856,n/a,Ritual
+15326,tt0245209,n/a,The Knot
+15367,tt0269743,66.0,Barking Dogs Never Bite
+15390,tt0243415,28.0,Mercy Streets
+15456,tt0202989,n/a,The Intern
+15494,tt0217019,63.0,Sade
+15685,tt0234516,n/a,The President's Man
+15688,tt0181212,n/a,Don Quixote
+15781,tt0188350,n/a,The New Country
+15857,tt0257818,n/a,The Jolly Boys' Last Stand
+16040,tt0262774,63.0,"Smell of Camphor, Fragrance of Jasmine"
+16334,tt0257289,n/a,Life as a Fatal Sexually Transmitted Disease
+16410,tt0234000,n/a,Kaho Naa... Pyaar Hai
+16503,tt0119185,n/a,Gen 13
+16627,tt0252703,n/a,Less Is More
+16637,tt0269587,69.0,Mysterious Object at Noon
+16722,tt0238883,n/a,Brother 2
+17003,tt0252335,n/a,Love Torn in a Dream
+17167,tt0254325,n/a,Comedy of Innocence
+17245,tt0234854,n/a,The Target Shoots First
+17254,tt0264378,n/a,After the Reconciliation
+17397,tt0219333,n/a,Suspicious River
+17412,tt0253378,n/a,Virgin Stripped Bare by Her Bachelors
+17427,tt0259256,n/a,Clint Eastwood: Out of the Shadows
+17462,tt0194026,n/a,Hurmaava joukkoitsemurha
+18546,tt0250266,43.0,BookWars
+18596,tt0218822,n/a,Así es la vida...
+18650,tt0255177,n/a,Freedom
+18825,tt0216279,n/a,Wild About Harry
+18911,tt0260731,n/a,3rd World Hero
+19043,tt0191915,n/a,Cord
+19216,tt0248808,n/a,For the Birds
+19538,tt0264804,n/a,Lon Chaney: A Thousand Faces
+19573,tt0293282,n/a,Inside: 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+19576,tt0259747,n/a,The Young and the Dead
+19683,tt0929753,n/a,Step Up Love Story
+19764,tt0228054,n/a,Bear with Me
+20007,tt0262414,n/a,Federico Fellini's Autobiography
+20152,tt0230534,n/a,Les Misérables
+20464,tt0255195,n/a,The Goddess of 1967
+20467,tt0195366,n/a,U.S. Seals
+20562,tt0240505,n/a,First Person Plural
+20563,tt0248803,n/a,First Target
+20610,tt0210628,n/a,The Crossing
+20635,tt0427531,n/a,Mezzo Forte
+20695,tt0222012,n/a,Hey Ram
+20737,tt0204350,23.0,Poor White Trash
+20782,tt0272884,n/a,Tesla: Master of Lightning
+20845,tt0168504,n/a,A Better Way to Die
+20999,tt0262240,n/a,As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty
+21052,tt0213565,n/a,The Color of Friendship
+21184,tt0238064,n/a,The Beach Boys: An American Family
+21372,tt0266850,n/a,Phantom of the Megaplex
+21389,tt0240380,n/a,Bloody Murder
+21562,tt0250469,n/a,Killjoy
+21756,tt0274738,n/a,Prison of the Dead
+21865,tt0255198,n/a,Godzilla vs. Megaguirus
+22108,tt0203425,n/a,Crocodile
+22249,tt0217066,n/a,A Storm in Summer
+22404,tt0248965,n/a,Lomalla
+22558,tt0217363,n/a,Dirty Pictures
+23403,tt0278622,n/a,Paying the Price: Killing the Children of Iraq
+23417,tt0251094,n/a,Gen-Y Cops
+23481,tt0276578,n/a,Train On The Brain
+23801,tt0263363,n/a,Fugitives
+23970,tt0945365,n/a,A Message from Akira Kurosawa: For Beautiful Movies
+24051,tt0120454,n/a,Vinyl
+24177,tt0138353,n/a,Cement
+24230,tt0223490,n/a,Hur som helst är han jävligt död
+24477,tt0221097,n/a,Cry Baby Lane
+24527,tt0212318,n/a,Madame Bovary
+24547,tt0224267,n/a,Tom Sawyer
+24698,tt0211792,n/a,Cutaway
+25100,tt0251382,n/a,Santa Who?
+25117,tt0256639,n/a,The Beaver Trilogy
+25136,tt0214641,n/a,DragonHeart: A New Beginning
+25440,tt0197256,n/a,The Atrocity Exhibition
+25463,tt0251070,n/a,Ellen DeGeneres: The Beginning
+25579,tt0244196,n/a,Second Skin
+25582,tt0216750,n/a,Total Western
+25594,tt0216620,n/a,Christina's House
+25735,tt0196723,n/a,Forever Lulu
+25916,tt0208026,n/a,A Chinese in a Coma
+25980,tt0212235,n/a,Shriek If You Know What I Did Last Friday the Thirteenth
+26125,tt0209264,n/a,Python
+26133,tt0203297,n/a,"Love, Money, Love"
+26182,tt0268037,n/a,Without Lying Down: Frances Marion and the Power of Women in Hollywood
+26341,tt0128977,n/a,The Bumblebee Flies Anyway
+26343,tt0267657,n/a,The Land Before Time VII: The Stone of Cold Fire
+26462,tt0217136,n/a,Pretty Devils
+26512,tt0216930,n/a,My 5 Wives
+26615,tt0246786,n/a,The Miracle Worker
+26873,tt0206088,n/a,LiebesLuder
+27061,tt0246332,n/a,Slow Burn
+27173,tt0243218,n/a,Willow and Wind
+27187,tt0183808,n/a,Spanish Judges
+27482,tt0239797,n/a,The Periwig-Maker
+27547,tt0225434,n/a,Coven
+27597,tt0216911,n/a,Meilleur espoir féminin
+27679,tt0288114,n/a,The Mark of Cain
+27690,tt0168856,n/a,Help! I'm A Fish
+27732,tt0260948,n/a,The Heart of the World
+27956,tt0239388,n/a,Poetical Refugee
+28071,tt0206588,n/a,Beethoven's 3rd
+28079,tt0213668,n/a,Freedom Song
+28195,tt0269410,n/a,Jönssonligan spelar högt
+28201,tt0265232,n/a,Once in a Lifetime
+28288,tt0269604,n/a,Naked
+28388,tt0261277,n/a,The Sea That Thinks
+28549,tt0252985,n/a,Chiedimi se sono felice
+28689,tt0226009,n/a,Jailbait!
+28732,tt0202236,n/a,Tribulation
+28748,tt0301083,n/a,Cardcaptor Sakura: The Sealed Card
+28762,tt0479000,n/a,The Coconut Revolution
+28785,tt0235532,n/a,Laissons Lucie faire !
+28864,tt0207377,n/a,Chain of Command
+28978,tt0284946,n/a,Casper's Haunted Christmas
+29028,tt0239450,n/a,Ants in the Pants
+29031,tt0248409,n/a,No More School
+29103,tt0160550,n/a,Moscow
+29370,tt0168785,n/a,Final Voyage
+29433,tt0378011,n/a,Géraldine
+29533,tt0304564,n/a,Pokémon: Mewtwo Returns
+29704,tt0213688,n/a,Green Sails
+29764,tt0263868,n/a,Backdoor
+29812,tt0282100,n/a,The Prince and the Pauper
+29915,tt0242519,n/a,Hera Pheri
+29995,tt0194422,n/a,Seventeen Again
+30086,tt0248185,n/a,Mission Kashmir
+30453,tt0256466,n/a,The Ultimate Christmas Present
+30460,tt0211174,n/a,"Up, Up, and Away"
+30520,tt0250593,n/a,Mom's Got a Date With a Vampire
+30554,tt0232002,n/a,The Loretta Claiborne Story
+30563,tt0199389,n/a,Cabin By The Lake
+30575,tt0207161,n/a,Time Share
+30626,tt0251756,n/a,Jungle
+30654,tt0297814,n/a,Bruce Lee: A Warrior's Journey
+30660,tt0151150,n/a,Josh
+30753,tt0250990,n/a,The Bogus Witch Project
+30845,tt0253658,n/a,Scooby-Doo and the Alien Invaders
+30863,tt0245380,n/a,Quints
+30925,tt0218440,n/a,Miracle In Lane 2
+30928,tt0267536,n/a,Grandma Got Run Over by a Reindeer
+30998,tt0267817,n/a,Party 7
+31140,tt0241251,n/a,Poison
+31149,tt0228711,n/a,The Perfect Nanny
+31179,tt0237680,n/a,Sacred Flesh
+31268,tt0208037,n/a,The Chaos Factor
+31272,tt0365797,n/a,La stratégie de l'échec
+31367,tt0218121,n/a,Model Behavior
+31431,tt0246834,n/a,The Other Me
+31508,tt0256627,n/a,Azzurro
+31648,tt0203940,n/a,Spiders
+31653,tt0169543,n/a,Almost Blue
+31729,tt0217086,n/a,Devil In The Flesh 2
+31756,tt0233709,n/a,The False Servant
+31758,tt0131596,n/a,Spin the Bottle
+31947,tt0294592,n/a,Autumn Tale
+32030,tt0269876,n/a,The Slow Business of Going
+32069,tt0221115,n/a,Teeth
+32234,tt0214698,n/a,The Three Stooges
+32237,tt0193732,n/a,Missing Pieces
+32263,tt0158466,n/a,Anne Of Green Gables: The Continuing Story
+32271,tt0163887,n/a,The Audrey Hepburn Story
+32284,tt0137937,n/a,Mary and Rhoda
+32287,tt0241357,n/a,Daydream Believers: The Monkees Story
+32383,tt0218298,n/a,Get Your Stuff
+32485,tt0270919,n/a,Ditto
+32562,tt0239406,n/a,Flashback
+32568,tt0260949,n/a,Hendrix
+32577,tt0255873,n/a,Peter Pan
+32667,tt0218616,n/a,Some Voices
+32683,tt0243220,n/a,Disappearing Acts
+32725,tt0264734,n/a,Joseph: King of Dreams
+32781,tt0240033,n/a,Old Hags
+32808,tt0270317,n/a,A Diva's Christmas Carol
+32850,tt0267490,n/a,Felicidades
+33167,tt0242256,n/a,Alaipayuthey
+33267,tt0221789,n/a,2gether
+33290,tt0229432,n/a,First Love
+33458,tt0172109,n/a,Alex L'ariete
+33500,tt0243739,n/a,Speaking of Bunuel
+33530,tt0235512,n/a,Two Heads Are Better Than None
+33558,tt0229328,n/a,Death of a Salesman
+33595,tt0499004,n/a,Code Rush
+33624,tt0240641,n/a,"Just, Melvin: Just Evil"
+33669,tt0214728,n/a,2000 AD
+33827,tt0258489,n/a,Double Tap
+34067,tt0221905,n/a,Octopus
+34118,tt0270560,n/a,Our Lips Are Sealed
+34383,tt0229664,n/a,Princes and Princesses
+34401,tt0245910,n/a,Cheap Smokes
+34418,tt0255097,n/a,Deewane
+34419,tt0255111,n/a,Dhadkan
+34420,tt0255305,n/a,Khiladi 420
+34421,tt0255309,n/a,Kurukshetra
+34422,tt0232079,n/a,Mela
+34423,tt0250690,n/a,Refugee
+34424,tt0250483,n/a,Kya Kehna
+34425,tt0248012,n/a,Fiza
+34426,tt0252277,n/a,Bicchoo
+34427,tt0250415,n/a,Har Dil Jo Pyar Karega...
+34428,tt0218533,n/a,Pukar
+34429,tt0286504,n/a,Beti No. 1
+34430,tt0220596,n/a,Khauff
+34431,tt0263491,n/a,Jis Desh Mein Ganga Rehta Hai
+34432,tt0249588,n/a,Hum To Mohabbat Karega
+34433,tt0247944,n/a,Badal
+34439,tt0184596,n/a,Hundhotellet
+34740,tt0261184,n/a,Come Look at Me
+34821,tt0221837,n/a,Borderline Normal
+35070,tt0267601,n/a,The Irrefutable Truth About Demons
+35071,tt0233600,n/a,Tokyo Raiders
+35245,tt0277558,n/a,A Fighter's Blues
+35288,tt0258247,n/a,The Testaments
+35561,tt0215681,n/a,Crazy
+35576,tt0249947,n/a,Seven Songs from the Tundra
+35595,tt0218891,n/a,Cinderella
+35656,tt0239593,n/a,Mariken
+35743,tt0784145,n/a,The Boy Who Saw the Wind
+35995,tt0165477,n/a,Slow Burn
+36385,tt0226919,n/a,Blood Surf
+36468,tt0268677,n/a,The Tangerine Bear: Home in Time for Christmas!
+36651,tt0166370,n/a,Subconscious Cruelty
+36659,tt0259265,65.0,Daughters of the Sun
+36665,tt0228992,n/a,Une femme d'extérieur
+36691,tt0227590,n/a,True Siblings
+36695,tt0235841,n/a,No Place to Go
+36745,tt0237386,n/a,Landscape
+36772,tt0209280,n/a,Empty Days
+36773,tt0227458,n/a,The Secret
+36782,tt0213595,n/a,"Everything's Fine, We're Leaving"
+36800,tt0246425,n/a,The Child
+36883,tt0271003,n/a,Ikingut
+36896,tt0267675,n/a,The Life & Adventures of Santa Claus
+36897,tt0151372,n/a,Light Keeps Me Company
+36943,tt0255665,n/a,Uttara
+37006,tt0222718,n/a,"André Hazes, Zij Gelooft in Mij"
+37090,tt0133146,n/a,Perpetrators of the Crime
+37264,tt0234889,n/a,Thumbtanic
+37358,tt0258850,n/a,Okinawa Rendez-vous
+37431,tt0266861,n/a,The Halt
+37436,tt0279079,n/a,Father and Daughter
+37981,tt0242747,n/a,Out of Sync
+38012,tt0203941,n/a,The Spiral Staircase
+38051,tt0249474,n/a,His Wife's Diary
+38274,tt1388441,n/a,Mugavari
+38299,tt0217990,n/a,Alley Cats Strike
+38327,tt0253709,n/a,Sin: The Movie
+38336,tt0314017,n/a,Labyrinth of Flames
+38832,tt0295232,n/a,Emmanuelle 2000: Emmanuelle's Intimate Encounters
+39168,tt0366620,n/a,Into Pitch Black
+39653,tt0197154,n/a,Gormenghast
+39739,tt0284605,n/a,VeggieTales: Esther...The Girl Who Became Queen
+39740,tt0284608,n/a,VeggieTales: King George and the Ducky
+39896,tt0304676,n/a,Scrapbook
+39998,tt0216736,n/a,Endgame
+40099,tt0200992,n/a,Trapped in a Purple Haze
+40151,tt0239632,n/a,Metronotte
+40265,tt0202314,n/a,Deep Core
+40363,tt0268898,n/a,Mourning Rock
+40455,tt0219105,n/a,John Henry
+40643,tt0238660,n/a,There's Only One Jimmy Grimble
+40907,tt0222150,n/a,The Waiting List
+40927,tt0246937,n/a,Something to Sing About
+41118,tt0210044,n/a,Flowers for Algernon
+41531,tt0292097,n/a,Markova: Comfort Gay
+41986,tt0263206,n/a,Christmas Time In South Park
+42107,tt0181819,n/a,Födelsedagen
+42108,tt0238251,n/a,Gossip
+42133,tt0231208,n/a,Año Mariano
+42542,tt0278793,n/a,The Up in Smoke Tour
+42593,tt0221633,n/a,They Nest
+42810,tt0231844,n/a,Just a Question of Love
+42872,tt0250256,n/a,Bill Maher: Be More Cynical
+42957,tt0489663,n/a,The Bridge on the River Kwai: An Appreciation by Filmmaker John Milius
+42959,tt0220652,n/a,The Most Fertile Man in Ireland
+42963,tt0157262,n/a,2001: A Space Travesty
+42980,tt0261703,n/a,Gaea Girls
+42997,tt0179861,n/a,Icebreaker
+43140,tt0266437,n/a,Demobbed
+43160,tt0234588,n/a,Rejected
+43212,tt0267721,n/a,The Making of 'The Bridge on the River Kwai'
+43242,tt0200809,n/a,Life-Size
+43252,tt0268327,n/a,Prison Images
+43333,tt0206093,n/a,Holy Tongue
+43519,tt0244290,n/a,Virtual Nightmare
+43561,tt0256459,n/a,The Truth About Jane
+43746,tt0230169,42.0,Ed Gein
+43859,tt0223954,n/a,The Prime Gig
+44031,tt0266821,n/a,Peculiarities of the National Hunt in the Winter
+44144,tt0192263,n/a,Longitude
+44462,tt0239102,n/a,Wild Flowers
+44514,tt0190346,n/a,The Dancer
+44519,tt0178655,n/a,Exit
+44794,tt0252802,n/a,101 Rent Boys
+44821,tt0235679,n/a,Pokémon: Spell of the Unknown
+44947,tt0238891,n/a,One Hundred Steps
+44984,tt0211941,n/a,Beat
+45037,tt0214878,n/a,The Libertine
+45125,tt0292149,n/a,Tender Age
+45132,tt0217168,n/a,Tomorrow's Another Day
+45420,tt0181199,n/a,Arabian Nights
+45457,tt0265736,n/a,Shadow of the Blair Witch
+45458,tt0252966,n/a,The Burkittsville 7
